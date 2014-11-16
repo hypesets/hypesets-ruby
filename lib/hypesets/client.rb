@@ -1,3 +1,5 @@
+require 'socket'
+
 module Hypesets
   class Client
     attr_reader :connection
